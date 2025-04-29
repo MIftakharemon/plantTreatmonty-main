@@ -146,7 +146,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 🔗 Useful Links
 
 - 📡 **API Documentation** – [Click here](https://plant-disease-detection-2-aa5x.onrender.com/docs#/default/predict_predict__post) to access the API endpoints.  
-- 🧠 **ML Model & FastAPI Repository** – [View on GitHub](https://github.com/Salman-Farid/plant_disease_detection.git).  
-- 📱 **Planty App Repository** – [Explore on GitHub](https://github.com/Salman-Farid/planty.git).  
+- 🧠 **ML Model & FastAPI Repository** – [View on GitHub](https://github.com/MIftakharemon/plant_disease_detection-main).  
+- 📱 **Planty App Repository** – [Explore on GitHub](https://github.com/MIftakharemon/planty.git).  
 
 ---
